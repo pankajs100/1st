@@ -42,7 +42,7 @@ ul li a:hover {
 .search-field input {
   padding: 15px;
   border-radius: 10px;
-  border: none;
+  border: 2px sold #fff;
   background-color: #9abebe8a;
 }
 .search-field button {
